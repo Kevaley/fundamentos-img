@@ -5,7 +5,7 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 3: Espacios de Color y Transformaciones de Intensidad - [[Link]](https://colab.research.google.com/drive/1d0WGSoEqkbNuT1x2LlGAtPOgI1zEvqep?usp=sharing)
 
-- Semana 4: Histogramas y Operatoria de Imágenes - 
+- Semana 4: Histogramas y Operatoria de Imágenes - [[Link]](https://colab.research.google.com/drive/1vQO0F7sbo2AcbJdXtJtGaad5RKX2lgA8)
 
 - Semana 5: Filtros Espaciales y Ruido - 
 
