@@ -9,6 +9,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 5: Filtros Espaciales y Ruido - [[Link]](https://colab.research.google.com/drive/1MxDZyRqqyGCwEgtr8t-mgzT5PMjMv1TC?usp=sharing)
 
-- Semana 6: Filtros Espaciales Avanzados - 
+- Semana 6: Filtros Espaciales Avanzados - [[Link]](https://colab.research.google.com/drive/1KslxpLxFZHghuq9rWrvYKADcoC1zAYrZ?usp=sharing)
 
 
