@@ -11,4 +11,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 6: Filtros Espaciales Avanzados - [[Link]](https://colab.research.google.com/drive/1KslxpLxFZHghuq9rWrvYKADcoC1zAYrZ?usp=sharing)
 
+- Semana 7: Ayudantía Fourier - [[Link]](https://colab.research.google.com/drive/16pDOrhkw6oKLOjHyM4oMvyYjCOH5vxxo?usp=sharing)
+
 
