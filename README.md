@@ -13,4 +13,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 7: Ayudantía Fourier - [[Link]](https://colab.research.google.com/drive/16pDOrhkw6oKLOjHyM4oMvyYjCOH5vxxo?usp=sharing)
 
+- Semana 8: Transformada de Fourier: [[Link]](https://colab.research.google.com/drive/19fOapBLzICB9er3deR32plJFVf7Gxb_V?usp=sharing)
+
 
