@@ -15,4 +15,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 8: Transformada de Fourier: [[Link]](https://colab.research.google.com/drive/19fOapBLzICB9er3deR32plJFVf7Gxb_V?usp=sharing)
 
+- Semana 9: Filtros en Frecuencia y PSF: [[Link]](https://colab.research.google.com/drive/1O2sKUG0VQ5IV_hnHKUHgu3s9wU-9m9Ou?usp=sharing)
+
 
