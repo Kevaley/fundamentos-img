@@ -17,4 +17,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 9: Filtros en Frecuencia y PSF: [[Link]](https://colab.research.google.com/drive/1O2sKUG0VQ5IV_hnHKUHgu3s9wU-9m9Ou?usp=sharing)
 
+- Semana 10: Deconvolución: [[Link]](https://colab.research.google.com/drive/1qb9SDM8OXd7f7_0v239hRL9R61mIi3JX?usp=sharing#scrollTo=28TpOYoxPt6E)
+
 
