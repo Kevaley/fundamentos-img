@@ -19,4 +19,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 10: Deconvolución: [[Link]](https://colab.research.google.com/drive/1qb9SDM8OXd7f7_0v239hRL9R61mIi3JX?usp=sharing#scrollTo=28TpOYoxPt6E)
 
+- Semana 11: Transformadas, compresión y multiescala: [[Link]](https://colab.research.google.com/drive/1QUTyvTuZMk5vdwDsdwi_qvEfp8wmQAu6)
+
 
