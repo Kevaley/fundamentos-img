@@ -21,4 +21,6 @@ En cada link podrán encontrar un google colab correspondiente a la materia vist
 
 - Semana 11: Transformadas, compresión y multiescala: [[Link]](https://colab.research.google.com/drive/1QUTyvTuZMk5vdwDsdwi_qvEfp8wmQAu6)
 
+- Semana 12: HDR: [[Link]](https://colab.research.google.com/drive/1oehprb6YCgAicyfMQ_AhwZveF1oTqDte?usp=sharing)
+
 
